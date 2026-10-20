@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  FeasyHome2
+
+  Created by chenchanghua on 2024/12/23.
+  
+*/
+
+"Status" = "状态";
+"Connecting..." = "连接中...";
+"Aborting" = "中止";
+"Cancelling connection..." = "取消连接...";
+"Discovering services..." = "发现服务...";
+"Initializing..." = "初始化...";
+"Device disconnected" = "设备已断开";
+"Disconnecting..." = "断开连接...";
+"Provisioning..." = "配网中...";
+"Primary Network Key" = "主网络密钥";
+"Resetting node..." = "重置节点...";
+
+"Cancel" = "取消";
+
+"Error" = "错误";
+"Success" = "成功";
+"OK" = "好的";
+"Mesh configuration could not be saved." = "Mesh网络配置没有保存成功";
+"Selected device is not supported." = "不支持所选设备";
+"No available Unicast Address in Provisioner's range." = "适配器的范围中没有可用的单播地址。";
+
+"Sending message..." = "消息正在发送中...";
+"Adding Application Key..." = "正在添加应用密钥...";
+"Subscribing..." = "正在加入群控...";
+"Unsubscribing..." = "正在退出群控...";
+
+"SendMessage" = "发送消息";
+"Mesh Network configuration imported." = "Mesh网络配置完成导入";
+
+
+"Request timed out." = "请求超时，请重试";
+"The bearer is closed." = "代理设备已断开，无法完成操作";

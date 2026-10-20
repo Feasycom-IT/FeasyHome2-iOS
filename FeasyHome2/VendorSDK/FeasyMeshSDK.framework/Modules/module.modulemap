@@ -1,0 +1,4 @@
+framework module FeasyMeshSDK {
+  header "FeasyMeshSDK-Swift.h"
+  requires objc
+}

@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  FeasyHome2
+
+  Created by chenchanghua on 2024/12/23.
+  
+*/
+
+"Status" = "Status";
+"Connecting..." = "Connecting...";
+"Aborting" = "Aborting";
+"Cancelling connection..." = "Cancelling connection...";
+"Discovering services..." = "Discovering services...";
+"Initializing..." = "Initializing...";
+"Device disconnected" = "Device disconnected";
+"Disconnecting..." = "Disconnecting...";
+"Provisioning..." = "Provisioning...";
+"Primary Network Key" = "Primary Network Key";
+"Resetting node..." = "Resetting node...";
+
+"Cancel" = "Cancel";
+
+"Error" = "Error";
+"Success" = "Success";
+"OK" = "OK";
+"Mesh configuration could not be saved." = "Mesh configuration could not be saved.";
+"Selected device is not supported." = "Selected device is not supported.";
+"No available Unicast Address in Provisioner's range." = "No available Unicast Address in Provisioner's range.";
+
+"Sending message..." = "Sending message...";
+"Adding Application Key..." = "Adding Application Key...";
+"Subscribing..." = "Subscribing...";
+"Unsubscribing..." = "Unsubscribing...";
+
+"SendMessage" = "SendMessage";
+"Mesh Network configuration imported." = "Mesh Network configuration imported.";
+
+
+"Request timed out." = "Request timed out.";
+"The bearer is closed." = "The bearer is closed.";
