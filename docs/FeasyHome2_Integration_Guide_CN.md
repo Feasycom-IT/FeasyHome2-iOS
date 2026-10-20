@@ -37,4 +37,4 @@ import FeasyMeshSDK
 - [SDK Swift 接口](../FeasyHome2/VendorSDK/FeasyMeshSDK.framework/Modules/FeasyMeshSDK.swiftmodule)
 - [示例 Mesh 模型代理](../FeasyHome2/MeshNetwork)
 
-本文依据已提供的工程与 SDK 接口整理；完整编译和硬件功能测试未在此次仓库整理中执行。
+本文依据已提供的工程与 SDK 接口整理；示例工程已通过不签名真机目标编译，硬件功能测试未在此次仓库整理中执行。

@@ -37,4 +37,4 @@ The basic flow follows `FeasyHome2/AppDelegate.swift` and `FeasyHome2/Modules/De
 - [SDK Swift interface](../FeasyHome2/VendorSDK/FeasyMeshSDK.framework/Modules/FeasyMeshSDK.swiftmodule)
 - [Sample mesh model delegates](../FeasyHome2/MeshNetwork)
 
-This guide is based on the supplied project and SDK interface. Repository packaging did not include a full app build or hardware functional tests.
+This guide is based on the supplied project and SDK interface. The demo passed an unsigned device build; hardware functional tests were not performed during repository packaging.

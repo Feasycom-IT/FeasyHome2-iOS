@@ -62,7 +62,7 @@ xcodebuild -workspace FeasyHome2.xcworkspace -scheme FeasyHome2 \
   CODE_SIGNING_ALLOWED=NO build
 ```
 
-本次仓库整理验证了文件结构、SDK 架构和工程识别；未完成 App 编译或真机功能验收。
+本次仓库整理已用 Xcode 完成上述不签名真机目标编译；未进行真机功能验收。
 
 ## 4. 文档 / Documents
 
